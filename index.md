@@ -29,7 +29,7 @@ Participants can receive their own microbiome data, as well as monetary compensa
 
 ### Who are you guys?
 
-We (Sophie Walton, Leron Perez and Chih-Fu Yeh0 are a group of scientists studying ecology, evolution and microbial physiology at Stanford University. Sophie Walton is a graduate student in Biophysics at Stanford University in the Good and Petrov labs. Leron Perez in a graduate student in Biophysics at Stanford University in the Cremer and Endy labs. Chih-Fu Yeh is a graduate student in Biology in the Fukami lab at Stanford University.
+We (Sophie Walton, Leron Perez and Chih-Fu Yeh) are a group of scientists studying ecology, evolution and microbial physiology at Stanford University. Sophie Walton is a graduate student in Biophysics at Stanford University in the Good and Petrov labs. Leron Perez in a graduate student in Biophysics at Stanford University in the Cremer and Endy labs. Chih-Fu Yeh is a graduate student in Biology in the Fukami lab at Stanford University.
 
 ### Why are you doing this study?
 
