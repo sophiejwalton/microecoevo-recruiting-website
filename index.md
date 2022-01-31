@@ -7,7 +7,6 @@ We are looking for healthy adults to participate in a study to examine how natur
 
 Contact swalton@stanford.edu to learn more. For participant's rights questions, contact 1-866-680-2906.
 
-### Markdown
 # Eligibility
 
 Participants must be
