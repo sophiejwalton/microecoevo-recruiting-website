@@ -1,6 +1,7 @@
 ## Welcome to the Gut Microbiome Ecology and Evolution Study Page
 
-How do our microbes grow, interact and evolve in our microbiome? How do our microbiomes respond to perturbations? By collecting and studying samples from these communities we hope to learn how bacterial strains in the microbiota interact in a community and how composition of the microbiota effects community properties. Our research will contribute to a more detailed understanding of how the ecology and evolution of human microbiota gut microbialcommunities. 
+
+How do our microbes grow, interact and evolve in our microbiome? How do our gut microbial communitites respond to perturbations?  Many studies of human microbiomes have demonstrated that microbiomes can be resilient to perturbations and that microbes evolve on human relevant time scales. However, we don't understand the mechhanisms that contribute to resilience to perturbations and evolution of our gut microbes. By collecting and studying many samples from gut microbiomes we hope to learn how bacterial strains in the microbiota interact in a community and how composition of the microbiota effects community properties. Our research will contribute to a more detailed understanding of ecology and evolution in the human gut microbiome.
 
 We are looking for healthy adults to participate in a study to examine how natural variability in our microbiomes contributes to differences in the properties (such as resilience and stability) of our microbiomes. 
 
@@ -28,6 +29,8 @@ Participants can receive their own microbiome data, as well as monetary compensa
 
 ### Why are you doing this study?
 
+We hope to learn how the diversity, composition, and physiological properties of members of the human microbiota contribute to interactions between microbes, stability during evolution and resilience to perturbations. 
+
 ### Who can participate?
 
 We are looking for healthy adults to participate in our study Participants will not be enrolled if any of the following conditions are met: pregnant or planning to become pregnant; chronic health conditions; recent illness, immunizations, international travel, hospitalizations, or antibiotic use.
@@ -52,7 +55,4 @@ We will give you flushable stool sample collection sheets, which have adhesives 
 ### Where do I keep stool samples?
 
 You will need to store the samples in your home freezer for most of the study. We will give you boxes, Ziploc bags, an insulated bag, and a cooler pack to make sure the samples are isolated from the rest of your freezer and stay frozen. We will provide all sampling and sample storage materials, and we will pick up the samples at the end of the study or sooner, as space dictates.
-
-
-[Link](url) and ![Image](src)
 ```
