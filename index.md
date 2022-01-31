@@ -1,5 +1,6 @@
 ## Welcome to the Gut Microbiome Ecology and Evolution Study Page
 
+![Poop and Microbes](/docs/assets/cutpoop.png)
 
 How do our microbes grow, interact and evolve in our microbiome? How do our gut microbial communitites respond to perturbations?  Many studies of human microbiomes have demonstrated that microbiomes can be resilient to perturbations and that microbes evolve on human relevant time scales. However, we don't understand the mechhanisms that contribute to resilience to perturbations and evolution of our gut microbes. By collecting and studying many samples from gut microbiomes we hope to learn how bacterial strains in the microbiota interact in a community and how composition of the microbiota effects community properties. Our research will contribute to a more detailed understanding of ecology and evolution in the human gut microbiome.
 
@@ -25,6 +26,10 @@ Participants will be asked to
 Participants can receive their own microbiome data, as well as monetary compensation of $20.
 
 # Frequently Asked Questions 
+
+### Who are you guys?
+
+We (Sophie Walton, Leron Perez and Chih-Fu Yeh0 are a group of scientists studying ecology, evolution and microbial physiology at Stanford University. Sophie Walton is a graduate student in Biophysics at Stanford University in the Good and Petrov labs. Leron Perez in a graduate student in Biophysics at Stanford University in the Cremer and Endy labs. Chih-Fu Yeh is a graduate student in Biology in the Fukami lab at Stanford University.
 
 ### Why are you doing this study?
 
