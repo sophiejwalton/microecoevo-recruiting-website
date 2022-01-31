@@ -15,7 +15,7 @@ Participants must be
 - At least 18 years of age
 - Not pregnant or planning to become pregnant
 
-Click [here](url) to assess your eligibility to participate in our study.
+Click [here](https://stanforduniversity.qualtrics.com/jfe/form/SV_cTpoe0XbGsqW9ng) to assess your eligibility to participate in our study.
 
 # Study design
 Participants will be asked to
