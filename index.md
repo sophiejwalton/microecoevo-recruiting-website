@@ -1,37 +1,58 @@
 ## Welcome to the Gut Microbiome Ecology and Evolution Study Page
 
-You can use the [editor on GitHub](https://github.com/sophiejwalton/microecoevo-recruiting-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+How do our microbes grow, interact and evolve in our microbiome? How do our microbiomes respond to perturbations? By collecting and studying samples from these communities we hope to learn how bacterial strains in the microbiota interact in a community and how composition of the microbiota effects community properties. Our research will contribute to a more detailed understanding of how the ecology and evolution of human microbiota gut microbialcommunities. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are looking for healthy adults to participate in a study to examine how natural variability in our microbiomes contributes to differences in the properties (such as resilience and stability) of our microbiomes. 
+
+Contact swalton@stanford.edu to learn more. For participant's rights questions, contact 1-866-680-2906.
 
 ### Markdown
+# Eligibility
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Participants must be
 
-```markdown
-Syntax highlighted code block
+- At least 18 years of age
+- Not pregnant or planning to become pregnant
 
-# Header 1
-## Header 2
-### Header 3
+Click [here](url) to assess your eligibility to participate in our study.
 
-- Bulleted
-- List
+# Study design
+Participants will be asked to
 
-1. Numbered
-2. List
+- Collect a stool sample 
+- Provide information about diet and personal history
 
-**Bold** and _Italic_ and `Code` text
+Participants can receive their own microbiome data, as well as monetary compensation of $20.
+
+# Frequently Asked Questions 
+
+### Why are you doing this study?
+
+### Who can participate?
+
+We are looking for healthy adults to participate in our study Participants will not be enrolled if any of the following conditions are met: pregnant or planning to become pregnant; chronic health conditions; recent illness, immunizations, international travel, hospitalizations, or antibiotic use.
+Contact study staff for more information about exclusion criteria.
+
+### What will you do with the samples you collect?
+
+We will use genome sequencing techniques to understand what microbes are present, and metabolomics and culturing methods to understand how microbes grow. New culturing techniques make it feasible to grow microbes in laboratories and allow us to gain a better understanding of the human gut microbiome.
+
+### Why should I participate?
+
+The main reason to participate is to help scientists learn more about the microbiome! Eventually, studies like this one may help scientists understand how to change the microbiome to keep people healthy—but in the meantime, it’s fascinating to learn more about the microbes that surround us.
+
+Another reason to participate is to learn about your own microbiota. You will have the option of meeting with the study staff once the study is complete (which may take several years) to find out what we’ve learned about the your microbes. Please note that we don’t yet know enough about the microbiota to provide specific health and medical advice based on what we learn.
+
+We are also offering $20 in compensation to participants. We hope that this compensation will offset the inconvenience of sampling, but this study will be most rewarding if you understand why we’re doing this research and want to help.
+
+### How do I collect stool samples?
+
+We will give you flushable stool sample collection sheets, which have adhesives that allow them to stick to your toilet. You will use the provided sterile swabs and tubes to collect stool samples, and you can flush the remaining materials.
+
+### Where do I keep stool samples?
+
+You will need to store the samples in your home freezer for most of the study. We will give you boxes, Ziploc bags, an insulated bag, and a cooler pack to make sure the samples are isolated from the rest of your freezer and stay frozen. We will provide all sampling and sample storage materials, and we will pick up the samples at the end of the study or sooner, as space dictates.
+
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sophiejwalton/microecoevo-recruiting-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
