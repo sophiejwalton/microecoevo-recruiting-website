@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ecology and Evolution in the Human Gut Microbiome
-description: ![Poop and Microbes](/docs/assets/cutpoop.png)
+description: !(/docs/assets/cutpoop.png)
 
