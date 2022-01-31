@@ -1,6 +1,6 @@
 ## Welcome to the Gut Microbiome Ecology and Evolution Study Page
 
-![Poop and Microbes](/microecoevo-recruiting-website/assets/cutpoop.png)
+![Poop and Microbes](/docs/assets/cutpoop.png)
 
 
 How do our microbes grow, interact and evolve in our microbiome? How do our gut microbial communitites respond to perturbations?  Many studies of human microbiomes have demonstrated that microbiomes can be resilient to perturbations and that microbes evolve on human relevant time scales. However, we don't understand the mechhanisms that contribute to resilience to perturbations and evolution of our gut microbes. By collecting and studying many samples from gut microbiomes we hope to learn how bacterial strains in the microbiota interact in a community and how composition of the microbiota effects community properties. Our research will contribute to a more detailed understanding of ecology and evolution in the human gut microbiome.
